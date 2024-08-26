@@ -148,8 +148,12 @@
   },
   "active": "aeba52a150fefd9a",
   "lastOpenFiles": [
-    "Backend/Authentication/JWT(JSON Web Tokens).md",
+    "Backend/DataBase/Simple topics.md",
+    "Backend/Database/Simple topics.md",
+    "Backend/Database",
     "Backend/Authentication/cors.md",
+    "Backend/DataBase",
+    "Backend/Authentication/JWT(JSON Web Tokens).md",
     "Backend/CrudOperation/Get Operation.md",
     "Backend/Authentication",
     "Backend/CrudOperation/Post Operation.md",
