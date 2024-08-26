@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Components/Pagination.md",
-                "mode": "preview",
+                "file": "Backend/Authentication/cors.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Components/Pagination.md",
+                "file": "Backend/Authentication/cors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Components/Pagination.md",
+                "file": "Backend/Authentication/cors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Components/Pagination.md"
+                "file": "Backend/Authentication/cors.md"
               }
             }
           }
@@ -148,8 +148,22 @@
   },
   "active": "aeba52a150fefd9a",
   "lastOpenFiles": [
-    "Tools/Computer.md",
+    "Backend/Authentication/JWT(JSON Web Tokens).md",
+    "Backend/Authentication/cors.md",
+    "Backend/CrudOperation/Get Operation.md",
+    "Backend/Authentication",
+    "Backend/CrudOperation/Post Operation.md",
     "React/Components/Pagination.md",
+    "Tools/Computer.md",
+    "Backend/CrudOperation",
+    "Backend",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Untitled 3.canvas",
+    "Untitled 4.canvas",
+    "Untitled 5.canvas",
+    "Untitled 6.canvas",
     "Tools/Computer",
     "Tools",
     "React/Components",
