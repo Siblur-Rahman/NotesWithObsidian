@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Hook/custom hooks.md",
+                "file": "React/DataFetching/Axios/Axios Interceptors.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Hook/custom hooks.md",
+                "file": "React/DataFetching/Axios/Axios Interceptors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Hook/custom hooks.md",
+                "file": "React/DataFetching/Axios/Axios Interceptors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Hook/custom hooks.md"
+                "file": "React/DataFetching/Axios/Axios Interceptors.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "aeba52a150fefd9a",
   "lastOpenFiles": [
-    "Backend/Authentication/JWT(JSON Web Tokens).md",
     "React/Hook/custom hooks.md",
+    "React/DataFetching/Axios/Axios Interceptors.md",
+    "React/DataFetching/Axios/Axios Interceptor.md",
+    "React/DataFetching/Axios",
+    "React/DataFetching/Untitled.md",
+    "Backend/Authentication/JWT(JSON Web Tokens).md",
     "React/Hook",
     "Backend/Database/Simple topics.md",
     "Backend/CrudOperation/Get Operation.md",
@@ -173,7 +177,6 @@
     "Tools/Computer",
     "Tools",
     "React/Components",
-    "React/DataFetching",
     "Welcome.md"
   ]
 }
