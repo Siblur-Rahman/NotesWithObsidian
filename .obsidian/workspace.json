@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "20fe936b0a3ee42e",
+        "id": "b6f08d784e426e72",
         "type": "tabs",
         "children": [
           {
-            "id": "aeba52a150fefd9a",
+            "id": "99a9a99503b131bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/DataFetching/Axios/Axios Interceptors.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#useAuth",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/DataFetching/Axios/Axios Interceptors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/DataFetching/Axios/Axios Interceptors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/DataFetching/Axios/Axios Interceptors.md"
+                "file": "2024-08-28.md"
               }
             }
           }
@@ -146,10 +140,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aeba52a150fefd9a",
+  "active": "7ed875ac3fb3eb0a",
   "lastOpenFiles": [
-    "React/Hook/custom hooks.md",
+    "React/Hook/Custom Hooks/useAxiosSecure.md",
+    "React/Hook/Custom Hooks/custom hooks.md",
+    "2024-08-28.md",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "React/Components/Pagination.md",
+    "Tools/Deploy website.md",
     "React/DataFetching/Axios/Axios Interceptors.md",
+    "React/Hook/Custom Hooks",
     "React/DataFetching/Axios/Axios Interceptor.md",
     "React/DataFetching/Axios",
     "React/DataFetching/Untitled.md",
@@ -163,20 +166,14 @@
     "Backend/Database",
     "Backend/DataBase",
     "Backend/Authentication",
-    "React/Components/Pagination.md",
     "Tools/Computer.md",
     "Backend/CrudOperation",
     "Backend",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Untitled 2.canvas",
-    "Untitled 3.canvas",
     "Untitled 4.canvas",
     "Untitled 5.canvas",
     "Untitled 6.canvas",
     "Tools/Computer",
     "Tools",
-    "React/Components",
     "Welcome.md"
   ]
 }
