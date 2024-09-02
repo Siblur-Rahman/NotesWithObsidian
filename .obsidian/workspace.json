@@ -4,15 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "b6f08d784e426e72",
+        "id": "3b12bcb82354eb25",
         "type": "tabs",
+        "dimension": 71.52641878669276,
         "children": [
           {
-            "id": "99a9a99503b131bf",
+            "id": "5013e4fcdcbb537d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Backend/Database/Simple topics.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      },
+      {
+        "id": "64c5cb313f775bf4",
+        "type": "tabs",
+        "dimension": 28.47358121330724,
+        "children": [
+          {
+            "id": "cc09825bfe9d2a3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Code Shortcut.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#useAuth",
+                "query": "proj",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,11 +86,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 209.5
   },
   "right": {
     "id": "994f84fa404bbb54",
@@ -81,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Backend/Database/Simple topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Backend/Database/Simple topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-08-28.md"
+                "file": "Backend/Database/Simple topics.md"
               }
             }
           }
@@ -140,40 +168,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ed875ac3fb3eb0a",
+  "active": "5013e4fcdcbb537d",
   "lastOpenFiles": [
-    "React/Hook/Custom Hooks/useAxiosSecure.md",
+    "Backend/Searching.md",
+    "Backend/Sorting.md",
+    "React/Components/Pagination.md",
+    "React/Components/React-Tab.md",
+    "Tools/Code Shortcut.md",
+    "React/Components/_Awesome-react-component.md",
+    "React/Components/Cover.md",
+    "React/Hook/useMenu to Load Data.md",
+    "React/Untitled.md",
     "React/Hook/Custom Hooks/custom hooks.md",
-    "2024-08-28.md",
+    "React/Hook/Custom Hooks/useAxiosSecure.md",
+    "React/Components/Parallax Component.md",
+    "React/Components/React Helmet.md",
+    "React/Components/Rating.md",
+    "React/Components/Carousel.md",
+    "React/Components/swiper.md",
+    "ProjectDetails/msr-restaurant.md",
+    "React/Props/props-single-note.md",
+    "React/Props",
+    "Untitled",
+    "ProjectDetails",
+    "Videos/কোড মনে থাকে না ! মনে রাখার উপায় Obsidian Knowledge Management for Software Developer _ RABBIL HASAN_3.mp4",
+    "কোড মনে থাকে না ! মনে রাখার উপায় Obsidian Knowledge Management for Software Developer _ RABBIL HASAN_3.mp4",
+    "কোড.md",
+    "Videos",
+    "New folder",
+    "JavaScript/JS ES6/_JS ES6 Intro.md",
+    "Tools/VS Code.md",
+    "CSS",
+    "HTML",
+    "Tools/Computer.md",
+    "Backend/Database/Simple topics.md",
+    "Tools/Assignment.md",
+    "Tools/Deploy website.md",
+    "Tools/Keyboard Shortcut.md",
+    "Backend/Untitled",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "React/Components/Pagination.md",
-    "Tools/Deploy website.md",
-    "React/DataFetching/Axios/Axios Interceptors.md",
-    "React/Hook/Custom Hooks",
-    "React/DataFetching/Axios/Axios Interceptor.md",
-    "React/DataFetching/Axios",
-    "React/DataFetching/Untitled.md",
-    "Backend/Authentication/JWT(JSON Web Tokens).md",
-    "React/Hook",
-    "Backend/Database/Simple topics.md",
-    "Backend/CrudOperation/Get Operation.md",
-    "Backend/CrudOperation/Post Operation.md",
-    "Backend/Authentication/cors.md",
-    "Backend/DataBase/Simple topics.md",
-    "Backend/Database",
-    "Backend/DataBase",
-    "Backend/Authentication",
-    "Tools/Computer.md",
-    "Backend/CrudOperation",
-    "Backend",
     "Untitled 4.canvas",
     "Untitled 5.canvas",
-    "Untitled 6.canvas",
-    "Tools/Computer",
-    "Tools",
-    "Welcome.md"
+    "Untitled 6.canvas"
   ]
 }

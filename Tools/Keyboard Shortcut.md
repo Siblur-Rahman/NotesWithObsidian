@@ -1,0 +1,1 @@
+To write the lower part of the upper line on the key board Pres Fn + key
