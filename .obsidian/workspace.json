@@ -6,15 +6,15 @@
       {
         "id": "3b12bcb82354eb25",
         "type": "tabs",
-        "dimension": 71.52641878669276,
+        "dimension": 79.51482479784366,
         "children": [
           {
-            "id": "5013e4fcdcbb537d",
+            "id": "980227fb2b886954",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Database/Simple topics.md",
+                "file": "HowTo/Data/Some Libraries.md",
                 "mode": "preview",
                 "source": false
               }
@@ -26,7 +26,7 @@
       {
         "id": "64c5cb313f775bf4",
         "type": "tabs",
-        "dimension": 28.47358121330724,
+        "dimension": 20.485175202156334,
         "children": [
           {
             "id": "cc09825bfe9d2a3c",
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "proj",
+                "query": "icon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,12 +86,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 200
   },
   "right": {
     "id": "994f84fa404bbb54",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Database/Simple topics.md",
+                "file": "HowTo/Data/Some Libraries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Database/Simple topics.md",
+                "file": "HowTo/Data/Some Libraries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Database/Simple topics.md"
+                "file": "HowTo/Data/Some Libraries.md"
               }
             }
           }
@@ -168,44 +167,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5013e4fcdcbb537d",
+  "active": "980227fb2b886954",
   "lastOpenFiles": [
+    "HowTo/Data/Searching.md",
+    "HowTo/Data/Some Libraries.md",
+    "HowTo/Data/CrudOperation/Post Operation Insert Document.md",
+    "HowTo/Data/CrudOperation/Get Operation.md",
+    "HowTo/Data/CrudOperation",
+    "_Markdown sheet.md",
     "Backend/Searching.md",
+    "HowTo/Data/Sorting.md",
     "Backend/Sorting.md",
-    "React/Components/Pagination.md",
-    "React/Components/React-Tab.md",
-    "Tools/Code Shortcut.md",
-    "React/Components/_Awesome-react-component.md",
-    "React/Components/Cover.md",
-    "React/Hook/useMenu to Load Data.md",
-    "React/Untitled.md",
-    "React/Hook/Custom Hooks/custom hooks.md",
-    "React/Hook/Custom Hooks/useAxiosSecure.md",
-    "React/Components/Parallax Component.md",
-    "React/Components/React Helmet.md",
-    "React/Components/Rating.md",
-    "React/Components/Carousel.md",
-    "React/Components/swiper.md",
-    "ProjectDetails/msr-restaurant.md",
-    "React/Props/props-single-note.md",
-    "React/Props",
-    "Untitled",
-    "ProjectDetails",
-    "Videos/কোড মনে থাকে না ! মনে রাখার উপায় Obsidian Knowledge Management for Software Developer _ RABBIL HASAN_3.mp4",
-    "কোড মনে থাকে না ! মনে রাখার উপায় Obsidian Knowledge Management for Software Developer _ RABBIL HASAN_3.mp4",
-    "কোড.md",
-    "Videos",
-    "New folder",
-    "JavaScript/JS ES6/_JS ES6 Intro.md",
-    "Tools/VS Code.md",
-    "CSS",
-    "HTML",
-    "Tools/Computer.md",
+    "HowTo/Data",
     "Backend/Database/Simple topics.md",
-    "Tools/Assignment.md",
-    "Tools/Deploy website.md",
-    "Tools/Keyboard Shortcut.md",
-    "Backend/Untitled",
+    "Backend/Authentication/JWT.md",
+    "Backend/Authentication/cors.md",
+    "React/Short Topics.md",
+    "Backend/CrudOperation/Post Operation Insert Document.md",
+    "HowTo/CrudOperation/Post Operation Insert Document.md",
+    "HowTo/CrudOperation/Get Operation.md",
+    "HowTo/CrudOperation",
+    "HowTo",
+    "New folder",
+    "Tools/Code Shortcut.md",
+    "Backend/CrudOperation/Get Operation.md",
+    "React/DataFetching/Axios/Untitled.md",
+    "React/DataFetching/Axios/Axios Interceptors.md",
+    "React/DataFetching/fetch.md",
+    "React/Hook/useNavigate React-Router.md",
+    "React/Components/Add to Cart or Wish List.md",
+    "React/Components/Sweetalert2.md",
+    "Tools/Inspect.md",
+    "React/Components/React Icon.md",
+    "React/Components/_Awesome-react-component.md",
+    "React/Authentication",
+    "JavaScript/Basic-Topic",
+    "Untitled",
+    "React/Hook/useContext",
+    "React/Props",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",

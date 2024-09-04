@@ -1,0 +1,10 @@
+password pattern: [66-6 Use Regex Validation In React Hook Form And Signup <span style="color: red">1:20</span> ](https://web.programming-hero.com/web-9/video/web-9-66-6-use-regex-validation-in-react-hook-form-and-signup)
+[<span style="color: red">Badge</span>  4:50 67-1 Module Introduction and cart icon setup](https://web.programming-hero.com/web-9/video/web-9-67-1-module-introduction-and-cart-icon-setup)
+<span style="color: red">file</span>
+<span style="color: red">file</span>
+<span style="color: red">file</span>
+<span style="color: red">file</span>
+<span style="color: red">file</span>
+<span style="color: red">file</span>
+<span style="color: red">file</span>
+<span style="color: red">file</span>
